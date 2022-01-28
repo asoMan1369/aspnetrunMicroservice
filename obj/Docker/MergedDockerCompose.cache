@@ -1,11 +1,28 @@
 services:
   catalog.api:
     build:
-      context: H:\learning\MicroService\udemy'\Project
+      context: H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice
       dockerfile: Services\Catalog\Catalog.API\Dockerfile
+    container_name: catalog.api
+    depends_on:
+      catalogdb:
+        condition: service_started
     environment:
       ASPNETCORE_ENVIRONMENT: Development
+      DatabaseSetting:ConnectionString: mongodb://catalogdb:27017
     image: catalogapi
     ports:
-    - target: 80
+    - published: 8000
+      target: 80
+  catalogdb:
+    container_name: catalogdb
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+    restart: always
+    volumes:
+    - C:\ProgramData\Docker\volumes\dockercompose15175473152953991413_mongo_data:c:\data\db:rw
 version: '3.4'
+volumes:
+  mongo_data: {}

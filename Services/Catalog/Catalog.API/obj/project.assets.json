@@ -729,11 +729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\learning\\MicroService\\udemy'\\Project\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "projectUniqueName": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "H:\\learning\\MicroService\\udemy'\\Project\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "projectPath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
       "packagesPath": "C:\\Users\\asoMan\\.nuget\\packages\\",
-      "outputPath": "H:\\learning\\MicroService\\udemy'\\Project\\Services\\Catalog\\Catalog.API\\obj\\",
+      "outputPath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Catalog\\Catalog.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asoMan\\AppData\\Roaming\\NuGet\\NuGet.Config",
