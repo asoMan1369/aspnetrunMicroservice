@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Basket\\Basket.Api\\Basket.Api.csproj": {}
+    "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Discount\\Discount.API\\Discount.API.csproj": {}
   },
   "projects": {
-    "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Basket\\Basket.Api\\Basket.Api.csproj": {
+    "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Discount\\Discount.API\\Discount.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Basket\\Basket.Api\\Basket.Api.csproj",
-        "projectName": "Basket.Api",
-        "projectPath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Basket\\Basket.Api\\Basket.Api.csproj",
+        "projectUniqueName": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Discount\\Discount.API\\Discount.API.csproj",
+        "projectName": "Discount.API",
+        "projectPath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Discount\\Discount.API\\Discount.API.csproj",
         "packagesPath": "C:\\Users\\asoMan\\.nuget\\packages\\",
-        "outputPath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Basket\\Basket.Api\\obj\\",
+        "outputPath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Discount\\Discount.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asoMan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,18 +54,6 @@
               "noWarn": [
                 "NU1605"
               ]
-            },
-            "Microsoft.Extensions.Caching.StackExchangeRedis": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.10.9, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

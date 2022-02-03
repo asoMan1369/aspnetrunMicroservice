@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qSzSbzpwIkW/4ambmEtgNJwEzGFh7iRlMfflVHxwH9ZoefAXk0prcsNeCBVVlvbr+DXjWyRdvPgPP5HPsgJreQ==",
+  "dgSpecHash": "iG5YB+rRuz1eV8EwcsFNUSDoJSs9up4zviW8D5g06Kr4jxoSt1CHYSl6J0WXnjBMHtugXnGzcvh5SR3du9+/Ig==",
   "success": true,
   "projectFilePath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Basket\\Basket.Api\\Basket.Api.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
