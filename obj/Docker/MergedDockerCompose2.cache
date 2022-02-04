@@ -57,7 +57,7 @@ services:
       target: 5432
     restart: always
     volumes:
-    - postgres_data:/var/lib/postgresql/data/:rw
+    - postgres_data:/var/lib/postgresql/data:rw
   pgadmin:
     container_name: pgadmin
     environment:
@@ -74,4 +74,6 @@ version: '3.4'
 volumes:
   mongo_data: {}
   pgadmin_data: {}
-  postgres_data: {}
+  postgres_data:
+    external: true
+    name: postgres_data

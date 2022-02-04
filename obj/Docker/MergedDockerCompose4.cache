@@ -57,7 +57,7 @@ services:
       target: 5432
     restart: always
     volumes:
-    - C:\ProgramData\Docker\volumes\dockercompose15175473152953991413_postgres_data:c:\var\lib\postgresql\data:rw
+    - C:\data\docker\postgresql\data:/var/lib/postgresql/data:rw
   pgadmin:
     container_name: pgadmin
     environment:
