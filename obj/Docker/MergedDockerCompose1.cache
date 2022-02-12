@@ -45,6 +45,22 @@ services:
     restart: always
     volumes:
     - C:\ProgramData\Docker\volumes\dockercompose15175473152953991413_mongo_data:c:\data\db:rw
+  discount.api:
+    build:
+      context: H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice
+      dockerfile: Services\Discount\Discount.API\Dockerfile
+    container_name: discount.api
+    depends_on:
+      discountdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DatabaseSetting:ConnectionString:Server: discountdb;Port=5432;Database=DiscountDb;User
+        Id=admin;Password=admin1234
+    image: discountapi
+    ports:
+    - published: 8002
+      target: 80
   discountdb:
     container_name: discountdb
     environment:
@@ -57,7 +73,7 @@ services:
       target: 5432
     restart: always
     volumes:
-    - postgres_data:/var/lib/postgresql/data:rw
+    - C:\data\docker\postgresql\data:/var/lib/postgresql/data:rw
   pgadmin:
     container_name: pgadmin
     environment:
