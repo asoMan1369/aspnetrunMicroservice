@@ -203,6 +203,42 @@
             "rid": "win"
           }
         }
+      },
+      "Ordering.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ordering.Doman": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ordering.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.Application.dll": {}
+        }
+      },
+      "Ordering.Doman/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ordering.Doman.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.Doman.dll": {}
+        }
+      },
+      "Ordering.infrasructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ordering.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ordering.infrasructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.infrasructure.dll": {}
+        }
       }
     }
   },
@@ -576,12 +612,29 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Ordering.Application/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.Application/Ordering.Application.csproj",
+      "msbuildProject": "../Ordering.Application/Ordering.Application.csproj"
+    },
+    "Ordering.Doman/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.Doman/Ordering.Doman.csproj",
+      "msbuildProject": "../Ordering.Doman/Ordering.Doman.csproj"
+    },
+    "Ordering.infrasructure/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.infrasructure/Ordering.infrasructure.csproj",
+      "msbuildProject": "../Ordering.infrasructure/Ordering.infrasructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.0",
+      "Ordering.Application >= 1.0.0",
+      "Ordering.infrasructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -612,7 +665,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj": {
+              "projectPath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj"
+            },
+            "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Ordering\\Ordering.infrasructure\\Ordering.infrasructure.csproj": {
+              "projectPath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Ordering\\Ordering.infrasructure\\Ordering.infrasructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
