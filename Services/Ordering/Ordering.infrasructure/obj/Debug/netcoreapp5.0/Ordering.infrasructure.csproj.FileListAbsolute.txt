@@ -1,0 +1,17 @@
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\Ordering.infrasructure.csprojAssemblyReference.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\Ordering.infrasructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\Ordering.infrasructure.AssemblyInfoInputs.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\Ordering.infrasructure.AssemblyInfo.cs
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\Ordering.infrasructure.csproj.CoreCompileInputs.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\bin\Debug\netcoreapp5.0\Ordering.infrasructure.deps.json
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\bin\Debug\netcoreapp5.0\Ordering.infrasructure.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\bin\Debug\netcoreapp5.0\ref\Ordering.infrasructure.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\bin\Debug\netcoreapp5.0\Ordering.infrasructure.pdb
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\bin\Debug\netcoreapp5.0\Ordering.Application.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\bin\Debug\netcoreapp5.0\Ordering.Doman.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\bin\Debug\netcoreapp5.0\Ordering.Application.pdb
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\bin\Debug\netcoreapp5.0\Ordering.Doman.pdb
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\Ordering.infrasructure.csproj.CopyComplete
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\Ordering.infrasructure.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\ref\Ordering.infrasructure.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.infrasructure\obj\Debug\netcoreapp5.0\Ordering.infrasructure.pdb

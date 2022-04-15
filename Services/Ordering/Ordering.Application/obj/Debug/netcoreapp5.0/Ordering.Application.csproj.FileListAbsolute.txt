@@ -1,0 +1,15 @@
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\bin\Debug\netcoreapp5.0\Ordering.Application.deps.json
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\bin\Debug\netcoreapp5.0\Ordering.Application.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\bin\Debug\netcoreapp5.0\ref\Ordering.Application.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\bin\Debug\netcoreapp5.0\Ordering.Application.pdb
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\bin\Debug\netcoreapp5.0\Ordering.Doman.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\bin\Debug\netcoreapp5.0\Ordering.Doman.pdb
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\Ordering.Application.csprojAssemblyReference.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\Ordering.Application.AssemblyInfoInputs.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\Ordering.Application.AssemblyInfo.cs
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\Ordering.Application.csproj.CoreCompileInputs.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\Ordering.Application.csproj.CopyComplete
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\Ordering.Application.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\ref\Ordering.Application.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Application\obj\Debug\netcoreapp5.0\Ordering.Application.pdb

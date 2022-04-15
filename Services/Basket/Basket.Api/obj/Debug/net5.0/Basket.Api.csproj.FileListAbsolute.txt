@@ -56,3 +56,13 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Ba
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\obj\Debug\net5.0\ref\Basket.Api.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\obj\Debug\net5.0\Basket.Api.pdb
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\obj\Debug\net5.0\Basket.Api.genruntimeconfig.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\EventBus.Messages.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\MassTransit.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\MassTransit.Abstractions.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\System.Text.Json.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\System.Threading.Channels.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\RabbitMQ.Client.dll

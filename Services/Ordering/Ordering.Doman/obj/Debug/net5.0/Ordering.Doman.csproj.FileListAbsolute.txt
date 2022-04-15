@@ -1,0 +1,12 @@
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\bin\Debug\net5.0\Ordering.Doman.deps.json
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\bin\Debug\net5.0\Ordering.Doman.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\bin\Debug\net5.0\ref\Ordering.Doman.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\bin\Debug\net5.0\Ordering.Doman.pdb
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\obj\Debug\net5.0\Ordering.Doman.csprojAssemblyReference.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\obj\Debug\net5.0\Ordering.Doman.GeneratedMSBuildEditorConfig.editorconfig
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\obj\Debug\net5.0\Ordering.Doman.AssemblyInfoInputs.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\obj\Debug\net5.0\Ordering.Doman.AssemblyInfo.cs
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\obj\Debug\net5.0\Ordering.Doman.csproj.CoreCompileInputs.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\obj\Debug\net5.0\Ordering.Doman.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\obj\Debug\net5.0\ref\Ordering.Doman.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Ordering\Ordering.Doman\obj\Debug\net5.0\Ordering.Doman.pdb

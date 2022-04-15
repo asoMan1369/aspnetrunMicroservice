@@ -3,9 +3,11 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\appsetti
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Catalog.API.exe
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Basket.Api.exe
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Discount.API.exe
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Discount.Grpc.exe
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Basket.Api.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Catalog.API.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Discount.API.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Discount.Grpc.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -22,6 +24,9 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Microsof
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Newtonsoft.Json.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Npgsql.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Dapper.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\AutoMapper.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Grpc.AspNetCore.Server.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Microsoft.Extensions.Options.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Microsoft.Extensions.Primitives.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\MongoDB.LibMongocrypt.dll
@@ -30,12 +35,13 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\DnsClien
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\SharpCompress.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\StackExchange.Redis.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Grpc.Net.Client.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Grpc.Net.Common.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Pipelines.Sockets.Unofficial.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\System.Diagnostics.PerformanceCounter.dll
-H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Grpc.Net.Common.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Catalog.API.pdb
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Basket.Api.pdb
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Discount.API.pdb
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Discount.Grpc.pdb
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\obj\Debug\docker-compose.dcprojAssemblyReference.cache
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\obj\Debug\docker-compose.dcproj.CopyComplete
