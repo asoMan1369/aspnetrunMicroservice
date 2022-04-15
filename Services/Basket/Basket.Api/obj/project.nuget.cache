@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qKQA20Ps2482JTOjMbw7z1+gHD3l7cnNs5n+1DHJxydla7SUHDngFRnDEHHPQmZXLMwg1+WOrkXh+uvg8uu9bA==",
+  "dgSpecHash": "dJwu2CVC8v+gUlKIcO9zu1QWZI/oHdirEa0raFexPvBMxgLPgPWqJyA3aA8j+f/ccdE+fQ3n2Ua7w38BH46OUw==",
   "success": true,
   "projectFilePath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\Services\\Basket\\Basket.Api\\Basket.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\asoMan\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\grpc.aspnetcore\\2.32.0\\grpc.aspnetcore.2.32.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\grpc.aspnetcore.server\\2.32.0\\grpc.aspnetcore.server.2.32.0.nupkg.sha512",
@@ -21,7 +23,7 @@
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
-    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\6.0.1\\microsoft.extensions.caching.stackexchangeredis.6.0.1.nupkg.sha512",
