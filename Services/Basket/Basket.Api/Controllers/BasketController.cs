@@ -82,6 +82,7 @@ namespace Basket.Api.Controllers
             //send checkout event to rabbitmq
             var eventMessage = _mapper.Map<BasketChecoutEvent>(basketRequest);
             eventMessage.TotalPrice = basket.TotalPrice;
+
             //_eventBus.PublishBasketCheckout
             await _publishEndpoint.Publish(eventMessage);
 

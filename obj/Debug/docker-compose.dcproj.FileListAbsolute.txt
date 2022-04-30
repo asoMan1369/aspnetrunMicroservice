@@ -45,3 +45,14 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Discount
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\obj\Debug\docker-compose.dcprojAssemblyReference.cache
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\obj\Debug\docker-compose.dcproj.CopyComplete
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\MassTransit.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\MassTransit.RabbitMqTransport.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\MassTransit.Abstractions.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\EventBus.Messages.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\System.Text.Json.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\System.Threading.Channels.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\System.Text.Encodings.Web.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\RabbitMQ.Client.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\bin\Debug\EventBus.Messages.pdb

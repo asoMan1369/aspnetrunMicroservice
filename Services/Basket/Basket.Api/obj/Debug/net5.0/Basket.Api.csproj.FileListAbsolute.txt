@@ -66,3 +66,8 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Ba
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\System.Threading.Channels.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\RabbitMQ.Client.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\AutoMapper.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Basket\Basket.Api\bin\Debug\net5.0\EventBus.Messages.pdb

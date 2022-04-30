@@ -103,6 +103,15 @@ services:
     restart: always
     volumes:
     - pgadmin_data:/root/.pgadmin:rw
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:3-management-alpine
+    ports:
+    - published: 5672
+      target: 5672
+    - published: 15672
+      target: 15672
+    restart: always
 version: '3.4'
 volumes:
   mongo_data: {}

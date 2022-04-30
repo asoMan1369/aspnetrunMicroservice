@@ -19,10 +19,14 @@ namespace Basket.Api.Entities
             get
             {
                 decimal totalPrice = 0;
-                foreach (var item in Items)
+                if (Items != null)
                 {
-                    totalPrice += item.price * item.Quantity;
+                    foreach (var item in Items)
+                    {
+                        totalPrice += item.price * item.Quantity;
+                    }
                 }
+
                 return totalPrice;
             }
         }
