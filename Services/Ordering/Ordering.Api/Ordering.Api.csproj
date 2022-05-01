@@ -25,4 +25,8 @@
     <ProjectReference Include="..\Ordering.infrasructure\Ordering.infrasructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
 </Project>
