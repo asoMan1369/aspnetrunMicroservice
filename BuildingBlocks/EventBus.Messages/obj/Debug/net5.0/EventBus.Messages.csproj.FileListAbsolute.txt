@@ -9,4 +9,3 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\BuildingBlocks\Eve
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\ref\EventBus.Messages.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.pdb
-H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csprojAssemblyReference.cache

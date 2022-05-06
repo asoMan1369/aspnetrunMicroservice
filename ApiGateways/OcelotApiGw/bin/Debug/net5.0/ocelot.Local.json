@@ -118,6 +118,6 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:44349"
+    "BaseUrl": "http://localhost:5010"
   }
 }
