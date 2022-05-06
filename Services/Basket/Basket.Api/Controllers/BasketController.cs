@@ -39,6 +39,17 @@ namespace Basket.Api.Controllers
             return Ok(basket?? new ShoppingCart(userName));
         }
 
+
+        [HttpDelete("{userName}", Name = "DeleteBasket")]
+        [ProducesResponseType(typeof(void), (int)HttpStatusCode.OK)]
+        public async Task<ActionResult<ShoppingCart>> DeleteBasket(string userName)
+        {
+            await _repository.DeleteBasket(userName);
+            return Ok();
+        }
+
+
+
         [HttpPost]
         [ProducesResponseType(typeof(ShoppingCart), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<ShoppingCart>> UpdateBasket([FromBody] ShoppingCart basket)
@@ -54,13 +65,6 @@ namespace Basket.Api.Controllers
             return Ok(await _repository.UpdateBasket(basket));
         }
 
-        [HttpDelete("{userName}",Name ="DeleteBasket")]
-        [ProducesResponseType(typeof(void), (int)HttpStatusCode.OK)]
-        public async Task<ActionResult<ShoppingCart>> DeleteBasket(string userName)
-        {
-            await _repository.DeleteBasket(userName);
-            return Ok();
-        }
 
         [Route("[action]")]
         [HttpPost]

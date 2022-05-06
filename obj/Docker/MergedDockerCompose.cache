@@ -10,6 +10,7 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       CacheSettings:ConnectionString: basketdb:6379
+      EventBusSettings:HostAddress: amqp://guest:guest@rabbitmq:5672
       GrpcSettings:DiscountUrl: http://discount.grpc
     image: basketapi
     ports:
@@ -54,6 +55,8 @@ services:
     depends_on:
       discountdb:
         condition: service_started
+      rabbitmq:
+        condition: service_started
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       DatabaseSetting:ConnectionString:Server: discountdb;Port=5432;Database=DiscountDb;User
@@ -91,6 +94,23 @@ services:
     restart: always
     volumes:
     - C:\data\docker\postgresql\data:/var/lib/postgresql/data:rw
+  ordering.api:
+    build:
+      context: H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice
+      dockerfile: Services\Ordering\Ordering.Api\Dockerfile
+    container_name: ordering.api
+    depends_on:
+      rabbitmq:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings:OrderingConnectionString:Server: localhost;Port=1433;Database=OrderDb;User
+        Id=sa;Password=123456
+      EventBusSettings:HostAddress: amqp://guest:guest@rabbitmq:5672
+    image: orderingapi
+    ports:
+    - published: 8004
+      target: 80
   pgadmin:
     container_name: pgadmin
     environment:

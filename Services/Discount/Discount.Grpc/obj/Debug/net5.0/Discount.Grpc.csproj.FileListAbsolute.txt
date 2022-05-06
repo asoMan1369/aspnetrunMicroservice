@@ -19,7 +19,6 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Grpc.Net.Common.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Npgsql.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csprojAssemblyReference.cache
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.GeneratedMSBuildEditorConfig.editorconfig
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.AssemblyInfoInputs.cache
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.AssemblyInfo.cs
@@ -34,3 +33,4 @@ H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\obj\Debug\net5.0\ref\Discount.Grpc.dll
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.pdb
 H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.genruntimeconfig.cache
+H:\learning\MicroService\udemy'\Project\aspnetrunMicroservice\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csprojAssemblyReference.cache
