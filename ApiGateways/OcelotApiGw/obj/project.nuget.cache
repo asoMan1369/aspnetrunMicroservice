@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HmUHc0ghUoXAgv86oSo00ejcPmi6XQBKimD3Xuk6e/iS2OEj8itBtJRpee6Y+5Jnykj+iORuJfYOYfKVWUsZDA==",
+  "dgSpecHash": "/NxY2Of1eWUtB5/eMgWl783eGUycjBo3i4V+XyYl9crgSraRU8dLNyytsjKBvW89UVbE3D/u6lg+v2p5YXtEaA==",
   "success": true,
   "projectFilePath": "H:\\learning\\MicroService\\udemy'\\Project\\aspnetrunMicroservice\\ApiGateways\\OcelotApiGw\\OcelotApiGw.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
